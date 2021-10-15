@@ -32,8 +32,8 @@ body{
 }
 .container{
     display: flex;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
 }
 .box{
     position: absolute;
@@ -139,7 +139,7 @@ button#cancel{
     color: #fff;
 }
 #cancel:hover{
-    background-color: #333;
+    background-color: #962C08;
 }
 button#next{
     border-radius: 20px;
@@ -151,5 +151,5 @@ button#next{
     color: #fff;
 }
 #next:hover{
-    background-color: #333;
+    background-color: #23394F;
 }
