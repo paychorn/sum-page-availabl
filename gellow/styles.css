@@ -4,7 +4,7 @@
     color: #333;
 }
 body{
-    background-color: #81B725;
+    background-color: #FFCE63;
     height: 100vh;
     overflow: hidden;
 }
@@ -13,8 +13,8 @@ body{
     width: 400px;
     height: 400px;
     top: -150px;
-    right: -150px;
-    background-color: #FFCE63;
+    right: -420px;
+    background-color: #E2410A;
     opacity: 70%;
     z-index: -1;
     filter: blur(90px);
@@ -24,8 +24,8 @@ body{
     width: 550px;
     height: 550px;
     bottom: -150px;
-    left: -150px;
-    background-color: #FFCE63;
+    left: -400px;
+    background-color: #E2410A;
     opacity: 70%;
     z-index: -1;
     filter: blur(90px);
@@ -58,7 +58,7 @@ body{
     color: #666;
 }
 .card{
-    background: rgba(129, 183, 37, 0.3);
+    background: rgba(255, 206, 99, 0.3);
     box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.25);
     border-radius: 30px;
     margin-top: 40px;
